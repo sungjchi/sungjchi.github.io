@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# About me
-
 I am **Sungjae Chi**, a Ph.D. student at MIT Physics. I am currently a research assistant at [Ultracold Quantum Gases Group](https://www.rle.mit.edu/quantumgas/) at RLE. My research interest is quantum simulation of strongly correlated system using ultracold atoms and molecules.
 
 ---
