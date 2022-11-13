@@ -5,6 +5,7 @@ description: Graduate Student @ MIT Physics
 show_downloads: false
 google_analytics: G-BPQZTLMBFL
 color-scheme: auto
+favicon: /favicon.ico
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
