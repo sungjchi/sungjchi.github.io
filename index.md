@@ -8,6 +8,8 @@ I'm a Ph.D. student at MIT Physics. I am currently working at [Ultracold Quantum
 
 ## Publications
 
-* L. Christakis, J. S. Rosenberg, R. Raj, **<u>S. Chi</u>**, A. Morningstar, D. A. Huse, Z. Z. Yan, and W. S. Bakr, “Probing site-resolved correlations in a spin system of ultracold molecules”, [Preprint at arXiv:2207.09328 (2022)](https://arxiv.org/abs/2207.09328).
+<img src="/assets/img/logo.jpg" align="left" width="200px"/> * L. Christakis, J. S. Rosenberg, R. Raj, **<u>S. Chi</u>**, A. Morningstar, D. A. Huse, Z. Z. Yan, and W. S. Bakr, “Probing site-resolved correlations in a spin system of ultracold molecules”, [Preprint at arXiv:2207.09328 (2022)](https://arxiv.org/abs/2207.09328).
+<br clear="left"/>
+
 * Z. Z. Yan, B. M. Spar, M. L. Prichard, **<u>S. Chi</u>**, H. Wei, E. Ibarra-Garc ́ıa-Padilla, K. R. A. Hazzard, and W. S. Bakr, “Two-dimensional programmable tweezer arrays of fermions,”, [_Phys. Rev. Lett._ **129**, 123201 (2022)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.123201).
 * B. M. Spar, E. Guardado-Sanchez, **<u>S. Chi</u>**, Z. Z. Yan, and W. S. Bakr, “Realization of a Fermi-Hubbard Optical Tweezer Array”, [_Phys. Rev. Lett._ **128**, 223202 (2022)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.223202).
