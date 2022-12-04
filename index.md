@@ -1,14 +1,13 @@
 ---
 layout: default
 ---
-
 I'm a Ph.D. student at MIT Physics. I am currently working at [Ultracold Quantum Gases Group](https://www.rle.mit.edu/quantumgas/) at [RLE](https://www.rle.mit.edu). My research interest is in the quantum simulation of strongly correlated system using ultracold atoms and molecules.
 
 ---
 
 ## Publications
 
-<img src="/assets/img/logo.jpg" align="left" width="200px"/> * L. Christakis, J. S. Rosenberg, R. Raj, **<u>S. Chi</u>**, A. Morningstar, D. A. Huse, Z. Z. Yan, and W. S. Bakr, “Probing site-resolved correlations in a spin system of ultracold molecules”, [Preprint at arXiv:2207.09328 (2022)](https://arxiv.org/abs/2207.09328).
+![myimg](assets/img/logo.jpg){: height="75px" style="float:left; padding-right:10px" } L. Christakis, J. S. Rosenberg, R. Raj, **<u>S. Chi</u>**, A. Morningstar, D. A. Huse, Z. Z. Yan, and W. S. Bakr, “Probing site-resolved correlations in a spin system of ultracold molecules”, [Preprint at arXiv:2207.09328 (2022)](https://arxiv.org/abs/2207.09328).
 <br clear="left"/>
 
 * Z. Z. Yan, B. M. Spar, M. L. Prichard, **<u>S. Chi</u>**, H. Wei, E. Ibarra-Garc ́ıa-Padilla, K. R. A. Hazzard, and W. S. Bakr, “Two-dimensional programmable tweezer arrays of fermions,”, [_Phys. Rev. Lett._ **129**, 123201 (2022)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.123201).
