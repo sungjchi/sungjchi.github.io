@@ -248,6 +248,16 @@ footer {
     margin:0 0 20px;
   }
 
+  .publication {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .publication img {
+    order: -1; // Move the image to the top
+    margin-bottom: 10px; // Add some space below the image
+  }
+  
   header a small {
     display:inline;
   }

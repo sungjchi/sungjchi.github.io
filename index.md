@@ -8,7 +8,7 @@ I'm a Ph.D. candidate student at MIT Physics. I am currently working at [Ultraco
 ## Publications
 <div class="publication">
 ![img3](assets/img/becmicroscope.png){: width="100px" style="float:left; padding-right:15px" } **Measuring pair correlations in Bose and Fermi gases via atom-resolved microscopy.**<br>
-R. Yao, **<u>S. Chi</u>**, M. Wang, R. J. Fletcher, M. Zwierlein. [_To be published_ ??? ??? ??? (2025)](https://).
+R. Yao, **<u>S. Chi</u>**, M. Wang, R. J. Fletcher, M. Zwierlein. [_Nat. Phys._ 20, 1726–1731 (2024)](https://).
 </div>
 
 ![img3](assets/img/edgestate.png){: width="100px" style="float:left; padding-right:15px" } **Observation of chiral edge transport in a rapidly-rotating quantum gas.**<br>
