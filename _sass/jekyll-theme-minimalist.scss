@@ -285,6 +285,8 @@ footer {
   }
 }
 
+@media print, screen and (max-width: 960px) {
+
 .link-wrapper-mobile {
   margin-bottom: 20px;
 }
