@@ -8,37 +8,37 @@ I'm a Ph.D. candidate student at MIT Physics. I am currently working at [Ultraco
 ## Publications
 
 <div style="overflow: hidden; margin-bottom: 10px;">
-  <img src="assets/img/becmicroscope.png" alt="BEC Microscope" width="100px" style="float:left; padding-right:15px; padding-bottom:0px;" />
+  <img src="assets/img/becmicroscope.png" alt="BEC Microscope" width="100px" style="float:left; padding-right:15px; padding-bottom:20px;" />
   <strong>Measuring pair correlations in Bose and Fermi gases via atom-resolved microscopy.</strong><br>
   R. Yao, <u>S. Chi</u>, M. Wang, R. J. Fletcher, M. Zwierlein.<br>
-  <a href="https://">To be published.</a>.
+  <a href="https://">To be published.</a>
 </div>
 
 <div style="overflow: hidden; margin-bottom: 10px;">
-  <img src="assets/img/edgestate.png" alt="Edge State" width="100px" style="float:left; padding-right:15px; padding-bottom:0px;" />
+  <img src="assets/img/edgestate.png" alt="Edge State" width="100px" style="float:left; padding-right:15px; padding-bottom:20px;" />
   <strong>Observation of chiral edge transport in a rapidly-rotating quantum gas.</strong><br>
   R. Yao, <u>S. Chi</u>, B. Mukherjee, A. Shaffer, M. Zwierlein, R. J. Fletcher.<br>
-  <a href="https://www.nature.com/articles/s41567-024-02617-7">Nat. Phys. 20, 1726–1731 (2024)</a>.
+  <a href="https://www.nature.com/articles/s41567-024-02617-7">Nat. Phys. 20, 1726–1731 (2024).</a>
 </div>
 <div style="overflow: hidden; margin-bottom: 20px;">
-  <img src="assets/img/mol_corr.jpg" alt="Molecular Correlations" width="100px" style="float:left; padding-right:15px; padding-bottom:0px;" />
+  <img src="assets/img/mol_corr.jpg" alt="Molecular Correlations" width="100px" style="float:left; padding-right:15px; padding-bottom:20px;" />
   <strong>Probing site-resolved correlations in a spin system of ultracold molecules</strong><br>
   L. Christakis, J. S. Rosenberg, R. Raj, <u>S. Chi</u>, A. Morningstar, D. A. Huse, Z. Z. Yan, and W. S. Bakr.<br>
-  <a href="https://www.nature.com/articles/s41586-022-05558-4">Nature 614 (7946), 64-69 (2023)</a>.
+  <a href="https://www.nature.com/articles/s41586-022-05558-4">Nature 614 (7946), 64-69 (2023).</a>
 </div>
 
 <div style="overflow: hidden; margin-bottom: 20px;">
-  <img src="assets/img/twod_array.png" alt="Two-Dimensional Array" width="100px" style="float:left; padding-right:15px; padding-bottom:0px;" />
+  <img src="assets/img/twod_array.png" alt="Two-Dimensional Array" width="100px" style="float:left; padding-right:15px; padding-bottom:20px;" />
   <strong>Two-dimensional programmable tweezer arrays of fermions.</strong><br>
   Z. Z. Yan, B. M. Spar, M. L. Prichard, <u>S. Chi</u>, H. Wei, E. Ibarra-García-Padilla, K. R. A. Hazzard, W. S. Bakr.<br>
-  <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.123201">Phys. Rev. Lett. 129, 123201 (2022)</a>.
+  <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.123201">Phys. Rev. Lett. 129, 123201 (2022).</a>
 </div>
 
 <div style="overflow: hidden; margin-bottom: 20px;">
-  <img src="assets/img/tweezer_corr.png" alt="Tweezer Correlations" width="100px" style="float:left; padding-right:15px; padding-bottom:0px;" />
+  <img src="assets/img/tweezer_corr.png" alt="Tweezer Correlations" width="100px" style="float:left; padding-right:15px; padding-bottom:20px;" />
   <strong>Realization of a Fermi-Hubbard Optical Tweezer Array.</strong><br>
   B. M. Spar, E. Guardado-Sanchez, <u>S. Chi</u>, Z. Z. Yan, W. S. Bakr.<br>
-  <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.223202">Phys. Rev. Lett. 128, 223202 (2022)</a>.
+  <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.223202">Phys. Rev. Lett. 128, 223202 (2022).</a>
 </div>
 
 <!-- 
