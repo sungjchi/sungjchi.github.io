@@ -209,17 +209,6 @@ footer {
   flex-basis: content;
 }
 
-.publication {
-  display: flex;
-  align-items: flex-start;
-  margin-bottom: 20px; // Add some space between publications
-}
-
-.publication img {
-  margin-right: 15px; // Add some space to the right of the image
-  margin-bottom: 0; // Remove bottom margin
-  width: 100px; // Ensure the image has a fixed width
-}
 
 @media print, screen and (max-width: 960px) {
   .sidebar {
