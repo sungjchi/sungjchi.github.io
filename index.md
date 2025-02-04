@@ -7,6 +7,18 @@ I'm a Ph.D. candidate student at MIT Physics. I am currently working at [Ultraco
 
 ## Publications
 
+<div style="overflow: hidden; margin-bottom: 20px;">
+  <img src="assets/img/becmicroscope.png" alt="BEC Microscope" width="100px" style="float:left; padding-right:15px; padding-bottom:40px;" />
+  <strong>Measuring pair correlations in Bose and Fermi gases via atom-resolved microscopy.</strong><br>
+  R. Yao, <u>S. Chi</u>, M. Wang, R. J. Fletcher, M. Zwierlein. <a href="https://">Nat. Phys. 20, 1726–1731 (2024)</a>.
+</div>
+
+<div style="overflow: hidden; margin-bottom: 20px;">
+  <img src="assets/img/edgestate.png" alt="Edge State" width="100px" style="float:left; padding-right:15px; padding-bottom:40px;" />
+  <strong>Observation of chiral edge transport in a rapidly-rotating quantum gas.</strong><br>
+  R. Yao, <u>S. Chi</u>, B. Mukherjee, A. Shaffer, M. Zwierlein, R. J. Fletcher. <a href="https://www.nature.com/articles/s41567-024-02617-7">Nat. Phys. 20, 1726–1731 (2024)</a>.
+</div>
+
 ![img3](assets/img/becmicroscope.png){: width="100px" style="float:left; padding-right:15px;padding-bottom:40px"}
 **Measuring pair correlations in Bose and Fermi gases via atom-resolved microscopy.**<br>
 R. Yao, **<u>S. Chi</u>**, M. Wang, R. J. Fletcher, M. Zwierlein.<br>
