@@ -210,6 +210,15 @@ footer {
 }
 
 @media print, screen and (max-width: 960px) {
+  .publication {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .publication img {
+    order: -1; // Move the image to the top
+    margin-bottom: 10px; // Add some space below the image
+  }
 
   .sidebar {
     padding: initial;
