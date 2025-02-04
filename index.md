@@ -1,11 +1,15 @@
 ---
 layout: default
 ---
-I'm a Ph.D. student at MIT Physics. I am currently working at [Ultracold Quantum Gases Group](https://quantumgas.mit.edu/) at [MIT-Harvard Center for Ultracold Atoms](http://cua.mit.edu). My research interest is in the quantum simulation of strongly correlated system using ultracold atoms and molecules.
+I'm a Ph.D. candidate student at MIT Physics. I am currently working at [Ultracold Quantum Gases Group](https://quantumgas.mit.edu/) in [MIT-Harvard Center for Ultracold Atoms](http://cua.mit.edu). My research interest is in the quantum simulation of strongly correlated system using ultracold atoms and molecules.
 
 ---
 
 ## Publications
+
+![img3](assets/img/becmicroscope.png){: width="100px" style="float:left; padding-right:15px" } Ruixiao Yao, Sungjae Chi, Mingxuan Wang, Richard J. Fletcher, Martin Zwierlein, “Measuring pair correlations in Bose and Fermi gases via atom-resolved microscopy”, [_To be published](https://).
+
+![img3](assets/img/edgestate.png){: width="100px" style="float:left; padding-right:15px" } Ruixiao Yao, Sungjae Chi, Biswaroop Mukherjee, Airlia Shaffer, Martin Zwierlein, Richard J. Fletcher, “Observation of chiral edge transport in a rapidly-rotating quantum gas”, [_Nat. Phys._ 20, 1726–1731 (2024)](https://www.nature.com/articles/s41567-024-02617-7).
 
 ![img3](assets/img/mol_corr.png){: width="100px" style="float:left; padding-right:15px" } L. Christakis, J. S. Rosenberg, R. Raj, **<u>S. Chi</u>**, A. Morningstar, D. A. Huse, Z. Z. Yan, and W. S. Bakr, “Probing site-resolved correlations in a spin system of ultracold molecules”, [_Nature_ 614 (7946), 64-69 (2023)](https://www.nature.com/articles/s41586-022-05558-4).
 
