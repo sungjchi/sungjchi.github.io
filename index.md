@@ -14,7 +14,7 @@ R. Yao, **<u>S. Chi</u>**, M. Wang, R. J. Fletcher, M. Zwierlein. [_To be publis
 ![img3](assets/img/edgestate.png){: width="100px" style="float:left; padding-right:15px" } **Observation of chiral edge transport in a rapidly-rotating quantum gas.**<br>
 R. Yao, **<u>S. Chi</u>**, B. Mukherjee, A. Shaffer, M. Zwierlein, R. J. Fletcher. [_Nat. Phys._ 20, 1726–1731 (2024)](https://www.nature.com/articles/s41567-024-02617-7).
 
-![img3](assets/img/mol_corr.jpg){: width="100px" style="float:left; padding-right:15px" } **Probing site-resolved correlations in a spin system of ultracold molecules”** <br>
+![img3](assets/img/mol_corr.jpg){: width="100px" style="float:left; padding-right:15px" } **Probing site-resolved correlations in a spin system of ultracold molecules** <br>
 L. Christakis, J. S. Rosenberg, R. Raj, **<u>S. Chi</u>**, A. Morningstar, D. A. Huse, Z. Z. Yan, and W. S. Bakr. [_Nature_ 614 (7946), 64-69 (2023)](https://www.nature.com/articles/s41586-022-05558-4).
 
 ![img3](assets/img/twod_array.png){: width="100px" style="float:left; padding-right:15px" } **Two-dimensional programmable tweezer arrays of fermions.**<br>
