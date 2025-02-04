@@ -7,7 +7,8 @@ I'm a Ph.D. candidate student at MIT Physics. I am currently working at [Ultraco
 
 ## Publications
 
-![img3](assets/img/becmicroscope.png){: width="100px" style="float:left; padding-right:15px" } Ruixiao Yao, Sungjae Chi, Mingxuan Wang, Richard J. Fletcher, Martin Zwierlein, “Measuring pair correlations in Bose and Fermi gases via atom-resolved microscopy”, [_To be published ??? ??? ??? (2025)](https://).
+![img3](assets/img/becmicroscope.png){: width="100px" style="float:left; padding-right:15px" } Ruixiao Yao, Sungjae Chi, Mingxuan Wang, Richard J. Fletcher, Martin Zwierlein,
+“Measuring pair correlations in Bose and Fermi gases via atom-resolved microscopy”, [_To be published ??? ??? ??? (2025)](https://).
 
 ![img3](assets/img/edgestate.png){: width="100px" style="float:left; padding-right:15px" } Ruixiao Yao, Sungjae Chi, Biswaroop Mukherjee, Airlia Shaffer, Martin Zwierlein, Richard J. Fletcher, “Observation of chiral edge transport in a rapidly-rotating quantum gas”, [_Nat. Phys._ 20, 1726–1731 (2024)](https://www.nature.com/articles/s41567-024-02617-7).
 
