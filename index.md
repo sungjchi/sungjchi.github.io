@@ -24,7 +24,7 @@ I'm a Ph.D. candidate student at MIT Physics. I am currently working at [Ultraco
   <img src="assets/img/mol_corr.jpg" alt="Molecular Correlations" width="100px" style="float:left; padding-right:15px; padding-bottom:20px;" />
   <strong>Probing site-resolved correlations in a spin system of ultracold molecules</strong><br>
   L. Christakis, J. S. Rosenberg, R. Raj, <u>S. Chi</u>, A. Morningstar, D. A. Huse, Z. Z. Yan, and W. S. Bakr.<br>
-  <a href="https://www.nature.com/articles/s41586-022-05558-4">Nature <b>614</b> (7946), 64-69 (2023).</a>
+  <a href="https://www.nature.com/articles/s41586-022-05558-4">Nature <b>614</b>, 64-69 (2023).</a>
 </div>
 
 <div style="overflow: hidden; margin-bottom: 20px;">
