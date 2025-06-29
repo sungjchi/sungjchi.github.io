@@ -334,3 +334,18 @@ footer {
     height: auto; /* or specific height for desktop */
   }
 }
+
+.publication-entry {
+  display: flex;
+  align-items: flex-start; /* Align items to the top */
+  margin-bottom: 20px;
+}
+
+.publication-entry img {
+  margin-right: 15px;
+  flex-shrink: 0; /* Prevent the image from shrinking */
+}
+
+.publication-details {
+  flex-grow: 1; /* Allow the text to take up the remaining space */
+}
