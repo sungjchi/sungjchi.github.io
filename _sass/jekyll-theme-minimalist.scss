@@ -261,10 +261,6 @@ footer {
   .link-wrapper {
     display: none !important;
   }
-
-  .img-circle {
-    display: none !important;
-  }
 }
 
 @media print, screen and (max-width: 720px) {
@@ -299,14 +295,6 @@ footer {
   body {
     padding:15px;
   }
-
-  // header ul {
-  //   width:99%;
-  // }
-
-  // header li, header ul li + li + li {
-  //   width:33%;
-  // }
 }
 
 @media print {
@@ -314,5 +302,34 @@ footer {
     padding:0.4in;
     font-size:12pt;
     color:#444;
+  }
+}
+
+/* Custom CSS for header title container */
+.header-title-container {
+  display: flex;
+  align-items: center;
+}
+
+.header-title-container h1 {
+  margin-right: 15px;
+}
+
+.header-title-container .img-circle {
+  width: 80px;
+  height: 80px;
+  flex-shrink: 0;
+}
+
+@media screen and (min-width: 961px) {
+  .header-title-container {
+    display: block;
+  }
+
+  .header-title-container .img-circle {
+    display: block;
+    margin-top: 10px;
+    width: auto; /* or specific width for desktop */
+    height: auto; /* or specific height for desktop */
   }
 }
