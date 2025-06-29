@@ -309,11 +309,12 @@ footer {
 .header-title-container {
   display: flex;
   align-items: center;
-  justify-content: space-between; /* This will push the items to the ends */
+  flex-direction: row-reverse;
+  justify-content: space-between;
 }
 
 .header-title-container h1 {
-  margin-right: 15px; /* Adjust as needed */
+  margin: 0;
 }
 
 .header-title-container .img-circle {
