@@ -309,18 +309,19 @@ footer {
 .header-title-container {
   display: flex;
   align-items: center;
-  flex-direction: row-reverse;
   justify-content: space-between;
 }
 
 .header-title-container h1 {
   margin: 0;
+  order: 1;
 }
 
 .header-title-container .img-circle {
-  width: 80px;
-  height: 80px;
+  width: 120px;
+  height: 120px;
   flex-shrink: 0;
+  order: 2;
 }
 
 @media screen and (min-width: 961px) {
@@ -328,11 +329,16 @@ footer {
     display: block;
   }
 
+  .header-title-container h1 {
+    order: initial;
+  }
+
   .header-title-container .img-circle {
     display: block;
     margin-top: 10px;
     width: auto; /* or specific width for desktop */
     height: auto; /* or specific height for desktop */
+    order: initial;
   }
 }
 
