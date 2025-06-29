@@ -261,6 +261,10 @@ footer {
   .link-wrapper {
     display: none !important;
   }
+
+  .img-circle {
+    display: none !important;
+  }
 }
 
 @media print, screen and (max-width: 720px) {
@@ -295,6 +299,14 @@ footer {
   body {
     padding:15px;
   }
+
+  // header ul {
+  //   width:99%;
+  // }
+
+  // header li, header ul li + li + li {
+  //   width:33%;
+  // }
 }
 
 @media print {
@@ -303,20 +315,4 @@ footer {
     font-size:12pt;
     color:#444;
   }
-}
-
-/* Custom CSS for header title container */
-.header-title-container {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-
-.header-title-container h1 {
-  margin-right: 20px;
-}
-
-.header-title-container .img-circle {
-  width: 100px;
-  height: 100px;
 }
